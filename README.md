@@ -42,9 +42,9 @@ I'm M Rizky Yuhari!
 
 | --- | --- |
 | --- | --- |
-| [![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyyuhari&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/rizkyyuhari)
+| [![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyyuhari&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/rizkyyuhari)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyyuhari&langs_count=8&layout=compact&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/rizkyyuhari)
 
 <!-- [![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyyuhari&theme=tokyonight)](https://github.com/rizkyyuhari/github-readme-stats) -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyyuhari&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyyuhari&theme=tokyonight) -->
