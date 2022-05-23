@@ -31,8 +31,10 @@ I'm M Rizky Yuhari!
 <p>
     <a href ="https://www.linkedin.com/in/muhammad-rizky-yuhari-009009229/"> 
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
+
         
-        <a href=" https://www.instagram.com/mrizkyuh/">
+        <a href="https://www.instagram.com/mrizkyuh/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
         </a>
         
