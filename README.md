@@ -42,7 +42,7 @@ I'm M Rizky Yuhari!
 
 | --- | --- |
 | --- | --- |
-| [![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyyuhari&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/rizkyyuhari)
+| [![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyyuhari&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight)](https://github.com/rizkyyuhari)
 
 <!-- [![Rizky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyyuhari&theme=tokyonight)](https://github.com/rizkyyuhari/github-readme-stats) -->
 
