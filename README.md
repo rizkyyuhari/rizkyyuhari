@@ -34,14 +34,7 @@ I'm M Rizky Yuhari!
  
    <a href ="https://www.instagram.com/mrizkyuh/"> 
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
- 
-
-        
-        <a href="https://www.instagram.com/mrizkyuh/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-        
-        
-     
+  
   
 </p>
 
