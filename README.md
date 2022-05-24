@@ -23,8 +23,8 @@ I'm M Rizky Yuhari!
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="yuharimuhammadrizky@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: I'm attracted to women </br>
+<!--     - 😄 Pronouns: He/Him </br>
+    - ⚡ Fun fact: I'm attracted to women </br> -->
 </details>
 
 ### Let's connect!
